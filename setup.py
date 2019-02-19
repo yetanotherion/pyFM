@@ -5,6 +5,7 @@ import numpy
 setup(
 	maintainer='Corey Lynch',
     name='pyfm',
+    version='0.1-criteo',
     packages=find_packages(),
     url='https://github.com/coreylynch/pyFM',
     cmdclass = {'build_ext': build_ext},
